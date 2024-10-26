@@ -6,7 +6,7 @@
   <link href="https://lipiston.eu.org/atom.xml" rel="self"/>
   
   <link href="https://lipiston.eu.org/"/>
-  <updated>2024-10-06T16:40:46.722Z</updated>
+  <updated>2024-10-26T16:05:49.835Z</updated>
   <id>https://lipiston.eu.org/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>逃离个性化推荐的最后一步：rime</title>
+    <link href="https://lipiston.eu.org/2024/10/27/rime/"/>
+    <id>https://lipiston.eu.org/2024/10/27/rime/</id>
+    <published>2024-10-26T16:05:49.000Z</published>
+    <updated>2024-10-26T16:05:49.835Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h1><p>国内的个性化推荐都做得让人一言难尽，有一种同一盆盆栽放到你面前让你辨认的美感。<br>包括国内输入法的数据采集问题，也让我使用了很久的Gboard。<br>但最后Windows端的微软拼音成功劝退我了，所以找到了被我尘封多年的rime。</p><h2 id="Windows"><a href="#Windows" class="headerlink" title="Windows"></a>Windows</h2><p>有空就写</p><h2 id="Android"><a href="#Android" class="headerlink" title="Android"></a>Android</h2><p>Android端我是不推荐使用trime的，因为Fcitx5-Android的多次更新已经很完善了，包括现在这篇文章的整个Android篇章都是用的Fcitx5-Android搭配rime-plugin。</p><p><img src="https://jsd.cdn.zzko.cn/gh/LIPiston/picx-images-hosting@master/Screenshot_20241026-235509_Markor.5mnt47fxt0.png"></p><h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><p>回归正题，安装部分很简单，在<a href="https://fcitx5-android.github.io/installation/">Fcitx5-Android的官方文档</a>就可以找到安装Fcitx5-Android的方式。<br>在<a href="https://github.com/fcitx5-android/fcitx5-android">GitHub就可以安装rime-plugin</a></p><h3 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h3><p>两者安装好后就到配置输入法<br>一开始的向导叫你干啥就干啥，然后到<a href="https://github.com/iDvel/rime-ice">rime-ice</a>下载整个zip，解压到rime用户目录</p><blockquote><p>&#x2F;storage&#x2F;emulated&#x2F;0&#x2F;Android&#x2F;data&#x2F;org.fcitx.fcitx5.android&#x2F;files&#x2F;data&#x2F;rime&#x2F;</p></blockquote><p>至此，你已经完成Android端的安装与配置。<br>可以开始使用rime了</p><h3 id="词库同步"><a href="#词库同步" class="headerlink" title="词库同步"></a>词库同步</h3><h2 id="Linux"><a href="#Linux" class="headerlink" title="Linux"></a>Linux</h2><p>Linux机子没啦后面再写</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;起因&quot;&gt;&lt;a href=&quot;#起因&quot; class=&quot;headerlink&quot; title=&quot;起因&quot;&gt;&lt;/a&gt;起因&lt;/h1&gt;&lt;p&gt;国内的个性化推荐都做得让人一言难尽，有一种同一盆盆栽放到你面前让你辨认的美感。&lt;br&gt;包括国内输入法的数据采集问题，也让我使用了很久的Gbo</summary>
+      
+    
+    
+    
+    <category term="好玩的" scheme="https://lipiston.eu.org/categories/%E5%A5%BD%E7%8E%A9%E7%9A%84/"/>
+    
+    
+    <category term="记录" scheme="https://lipiston.eu.org/tags/%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
   
   <entry>
     <title>最有乐子的一集</title>
